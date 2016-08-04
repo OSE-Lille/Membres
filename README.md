@@ -1,3 +1,3 @@
 # Membres
 
-http://oselille.org/Membres/
+http://membres.oselille.org/
